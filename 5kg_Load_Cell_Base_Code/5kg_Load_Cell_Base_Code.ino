@@ -71,5 +71,5 @@ void loop() { // run this over and over
   Serial.print(loadValue);
   Serial.println();
 
-  delay(1000);
+  delay(1000); //delays 1000 milliseconds
 }
